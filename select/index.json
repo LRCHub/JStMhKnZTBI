@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "TIPI-TAP",
+  "base_artist": "Kep1er",
+  "createdAt": "2026-03-10T06:41:09.234404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TIPI-TAP",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/01_TIPI-TAP_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TIPI-TAP",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/02_TIPI-TAP_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TIPI-TAP",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/03_TIPI-TAP_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TIPI‐TAP",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/04_TIPI‐TAP_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TIPI-TAP (Japanese Version)",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/05_TIPI-TAP_(Japanese_Version)_Kep1er.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TIPI-TAP (Japanese ver.)",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/06_TIPI-TAP_(Japanese_ver.)_Kep1er.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TIPI-TAP",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_TIPI-TAP_Kep1er.txt"
+    }
+  ]
+}
